@@ -8,3 +8,8 @@ body{
     height: 700px;
     margin: 1;
 }
+
+
+button {
+    background-color: rgb(11, 214, 11);
+}
